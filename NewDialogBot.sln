@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewDialogBot", "NewDialogBot.csproj", "{B8E51B1A-A3FC-490B-AFE1-F6D12650571D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E51B1A-A3FC-490B-AFE1-F6D12650571D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E51B1A-A3FC-490B-AFE1-F6D12650571D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E51B1A-A3FC-490B-AFE1-F6D12650571D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E51B1A-A3FC-490B-AFE1-F6D12650571D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C7604D-487B-4CBD-A8CD-8C4F22C08F1A}
+	EndGlobalSection
+EndGlobal

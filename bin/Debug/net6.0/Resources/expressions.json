@@ -1,0 +1,11 @@
+{
+  "greetings": {
+    "hi": "Hello! If you need help, please type 'help'",
+    "hello": "Hello! If you need help, please type 'help'",
+    "can you help me": "Certainly! please type 'help'"
+
+  },
+  "help": {
+    "response": "Please Enter your details"
+  }
+}

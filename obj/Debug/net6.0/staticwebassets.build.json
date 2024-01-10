@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hNt0d9YGdhYR7odshiDMjSy/7sbGvdQDoZii9dghw0g=",
+  "Source": "NewDialogBot",
+  "BasePath": "_content/NewDialogBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NewDialogBot\\wwwroot",
+      "Source": "NewDialogBot",
+      "ContentRoot": "D:\\workElite\\bot-practice\\NewDialogBot\\wwwroot\\",
+      "BasePath": "_content/NewDialogBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\workElite\\bot-practice\\NewDialogBot\\wwwroot\\default.htm",
+      "SourceId": "NewDialogBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\workElite\\bot-practice\\NewDialogBot\\wwwroot\\",
+      "BasePath": "_content/NewDialogBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

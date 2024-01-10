@@ -1,0 +1,6 @@
+{
+  "greetings": [ "hi", "hello", "hey", "ok", "okay", "yeah" ],
+  "whoAreYou": [ "who are you", "what is your name", "tell me about yourself" ],
+  "record": [ "EMR", "Medical Record", "Get my EMR", "Get my medical record", "I need my EMR document", "I need my emr", "I need my medical record", "I need electronic medical record", "What is my EMR", "I want my EMR", "I want my medical record", "I need electronic medical record" ],
+  "help": [ "help", "can you help me", "please help", "i need help" ]
+}
